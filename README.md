@@ -66,10 +66,10 @@ The analysis reveals that Netflix experienced rapid expansion between 2015–201
 
 **This project demonstrates:**
 
-Data cleaning skills
+- Data cleaning skills
 
-SQL querying (aggregations, window functions, CTEs)
+- SQL querying (aggregations, window functions, CTEs)
 
-Trend analysis
+- Trend analysis
 
-Business-oriented interpretation of data
+- Business-oriented interpretation of data

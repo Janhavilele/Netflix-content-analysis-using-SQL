@@ -1,4 +1,4 @@
-**📊 Netflix Content Strategy & Growth Analysis Using SQL**
+# 📊 Netflix Content Strategy & Growth Analysis Using SQL
 
 
 **📁 Dataset Information**

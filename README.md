@@ -46,7 +46,7 @@ The dataset contains mixed data formats (e.g., duration stored as text, date sto
 
 - Movies dominate the platform, contributing ~70% of total content.
 
-- Most TV Shows have 1–2 seasons; long-running shows are rare.
+- ~67% of TV Shows have only 1 season, indicating many limited-run titles.
 
 - Major content production growth occurred between 2015–2018.
 
